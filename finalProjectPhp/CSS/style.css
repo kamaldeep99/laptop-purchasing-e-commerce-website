@@ -1,0 +1,132 @@
+/* Revision History:
+
+ DEVELOPER                      DATE                        COMMENTS
+
+ Kamaldeep Singh          2022-03-7               added css for everything except cheetsheet
+ Kamaldeep Singh          2022-03-8                cheatsheet css added
+
+
+*/
+
+body {
+  background-color: lightyellow;
+}
+
+.logo_normal {
+  width: 115px;
+  height: 115px;
+  
+}
+.logo_opacity {
+  opacity: 0.3;
+  width: 115px;
+  height: 115px;
+}
+
+
+.nav {
+  
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  background-color: red;
+ 
+ 
+
+}
+.navitem {
+  background-color: lightcyan;
+  padding: 10px;
+
+}
+
+.bigpic {
+  
+  width: 400px;
+  height: 400px;
+  padding: 10px;
+
+  
+  
+}
+.normalpic {
+    width: 200px;
+    height: 200px;
+    padding: 10px;
+    
+}
+
+
+
+.copyright {
+  margin-left: 33%;
+  margin-right: 33%;
+  width: 290px;
+  
+  
+}
+
+
+
+
+
+
+
+.form  {
+  margin-left: 33%;
+  margin-right: 33%;
+}
+
+.error {
+  color: red;
+}
+
+.main {
+ 
+  text-align: center;
+  background-color: lime;
+  
+}
+
+
+.print_order_css{
+    background-color: white;
+    
+    
+}
+.order_css{
+    background-color: peru;
+}
+
+.red_required {
+    color: red;
+}
+.confirmation{
+    font-size: 20px;
+    
+    text-align: center;
+}
+
+.red {
+  color: red;
+}
+.orange {
+  color: orange;
+}
+.green {
+  color: green;
+}
+
+.ordertable,th, tr, td{
+    border: 1px solid;
+}
+
+
+
+
+
+
+
+
